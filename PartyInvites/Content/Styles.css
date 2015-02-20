@@ -1,0 +1,26 @@
+﻿
+.field-validation-error {
+    color: #f00;
+    font-weight: bold;
+}
+
+.field-validation-Valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid red;
+}
+
+.field-validation-error {
+    border: 1px solid #f00;
+}
+
+.validation-summary-errosr {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid {
+    display: none;
+}
